@@ -1,0 +1,5 @@
+email
+beautifulsoup4
+re
+json
+azure-kusto-data

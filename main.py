@@ -4,7 +4,7 @@ from data_writer import DataWriter
 
 def main():
     # Initialize the Gmail client
-    gmail_client = GmailClient('thebenmandude@gmail.com', 'zgzr hnoe xsmr gcra')
+    gmail_client = GmailClient('********@gmail.com', '***********')
 
     # Connect to Gmail
     gmail_client.connect()
